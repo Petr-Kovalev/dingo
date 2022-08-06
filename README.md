@@ -1,2 +1,2 @@
 # Game DINGO
-School project: a game DINGO for a "Young developer" competition in 2001
+School project: game DINGO for a "Young developer" competition in 2001
